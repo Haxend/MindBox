@@ -13,7 +13,7 @@
  
  ## Решение
  
- Ссылка для скачивания репоситория [ТЫК](https://github.com/Haxend/MindBox/archive/refs/heads/master.zip)
+ Ссылка для скачивания репозитория [ТЫК](https://github.com/Haxend/MindBox/archive/refs/heads/master.zip)
 
 # Задача на SQL
 
